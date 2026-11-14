@@ -85,7 +85,7 @@ elimina trabalho em vez de apenas movê-lo de lugar.
 
 **Infrastructure & data**
 
-- Linux servers, Docker, Nginx
+- Linux servers, Docker, Caddy
 - Cloudflare and edge configuration
 - MySQL, PostgreSQL, MongoDB, Redis
 - Deployment and operational tooling
@@ -100,7 +100,7 @@ elimina trabalho em vez de apenas movê-lo de lugar.
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,ts,cs,php,docker,linux,nginx,cloudflare,mysql,postgres,mongodb,redis&theme=dark&perline=12" alt="Python, TypeScript, C#, PHP, Docker, Linux, Nginx, Cloudflare, MySQL, PostgreSQL, MongoDB, Redis" />
+<img src="https://skillicons.dev/icons?i=python,ts,cs,php,docker,linux,cloudflare,mysql,postgres,mongodb,redis&theme=dark&perline=12" alt="Python, TypeScript, C#, PHP, Docker, Linux, Cloudflare, MySQL, PostgreSQL, MongoDB, Redis" />
 
 <br/><br/>
 
@@ -110,6 +110,7 @@ elimina trabalho em vez de apenas movê-lo de lugar.
 <img src="https://img.shields.io/badge/Flow%20Builder-101B2C?style=flat-square&labelColor=0B1728&logo=diagramsdotnet&logoColor=22C7E8" alt="Flow Builder" />
 <img src="https://img.shields.io/badge/Baileys-101B2C?style=flat-square&labelColor=0B1728&logo=whatsapp&logoColor=00D69A" alt="Baileys" />
 <img src="https://img.shields.io/badge/WPPConnect-101B2C?style=flat-square&labelColor=0B1728&logo=whatsapp&logoColor=00D69A" alt="WPPConnect" />
+<a href="https://caddyserver.com/"><img src="https://img.shields.io/badge/Caddy-101B2C?style=flat-square&labelColor=0B1728&logo=caddy&logoColor=00D69A" alt="Caddy" /></a>
 <img src="https://img.shields.io/badge/Server%20Control-101B2C?style=flat-square&labelColor=0B1728&logo=linux&logoColor=22C7E8" alt="Server Control Panel" />
 
 </div>
