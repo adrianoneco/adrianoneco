@@ -1,156 +1,172 @@
-# Adriano Neco
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=ADRIANO%20NECO&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20AUTOMATION&descSize=14&descColor=10B981&descAlignY=65" />
+<img src="./assets/hero.svg" width="100%" alt="Adriano Neco — Software Developer · AI agents · Automation · Backend & APIs" />
 
 <br/>
 
-<a href="https://github.com/adrianoneco">
-<img src="https://komarev.com/ghpvc/?username=adrianoneco&style=flat-square&color=10B981&label=PROFILE+VIEWS" />
+<a href="mailto:adriano.neco.silva@proton.me">
+  <img src="https://img.shields.io/badge/Email-adriano.neco.silva@proton.me-00D69A?style=for-the-badge&labelColor=0B1728&logo=protonmail&logoColor=FFFFFF" alt="Email adriano.neco.silva@proton.me" />
 </a>
+<a href="https://wa.me/5541995927699">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B55%2041%2099592--7699-0B1728?style=for-the-badge&labelColor=0B1728&logo=whatsapp&logoColor=00D69A" alt="WhatsApp +55 41 99592-7699" />
+</a>
+<img src="https://img.shields.io/badge/Open%20to%20work-remote%20%C2%B7%20hybrid%20%C2%B7%20on--site-101B2C?style=for-the-badge&labelColor=0B1728&logo=statuspage&logoColor=00D69A" alt="Open to work — remote, hybrid or on-site" />
 
 </div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## About
 
-Desenvolvedor de software focado em construir aplicações modernas, agentes de inteligência artificial, automações e integrações entre sistemas.
+Software developer building modern applications, **AI agents**, automations and
+integrations between systems. I work across backend, APIs, infrastructure,
+databases and AI tooling to ship solutions that are efficient, reliable and
+built to scale.
 
-Trabalho com desenvolvimento backend, APIs, infraestrutura, bancos de dados e ferramentas de IA para criar soluções eficientes e escaláveis.
+I care about the parts that decide whether software survives production: clear
+data models, honest error handling, observable services and automation that
+removes work instead of moving it around.
 
----
+<details>
+<summary><b>Português</b></summary>
 
-## Technologies
+<br/>
 
-### Programming Languages
+Desenvolvedor de software focado em construir aplicações modernas, **agentes de
+inteligência artificial**, automações e integrações entre sistemas. Atuo em
+backend, APIs, infraestrutura, bancos de dados e ferramentas de IA para criar
+soluções eficientes e escaláveis.
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,ts,cs,php&theme=dark" />
-</div>
+Me importo com o que decide se um software sobrevive em produção: modelos de
+dados claros, tratamento de erro honesto, serviços observáveis e automação que
+elimina trabalho em vez de apenas movê-lo de lugar.
 
-### AI & Development
+</details>
 
-<div align="left">
-<a href="https://opencode.ai/">
-<img src="https://img.shields.io/badge/OpenCode-18181B?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF" />
-</a>
-<a href="https://github.com/vllm-project/vllm">
-<img src="https://img.shields.io/badge/vLLM-2563EB?style=for-the-badge&logo=lightning&logoColor=FFFFFF" />
-</a>
-<img src="https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-</div>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### Databases & Infrastructure
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux,nginx,cloudflare&theme=dark" />
-</div>
-
-### Automation & APIs
-
-<div align="left">
-<img src="https://img.shields.io/badge/Flow%20Builder-1E3A8A?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Agent%20Bot-059669?style=for-the-badge&logo=probot&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Baileys-128C7E?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/WPPConnect-128C7E?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" />
-</div>
-
-### Server Management
-
-<div align="left">
-<img src="https://img.shields.io/badge/Server%20Control%20Panel-1E3A8A?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF" />
-</div>
-
----
-
-## Areas of Expertise
+## What I build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/openai/10B981" width="20" /> Artificial Intelligence
+**AI agents & LLM integration**
 
-- AI Agents
-- LLM Integration
-- vLLM
-- OpenCode
-- Intelligent Automation
+- Agent orchestration and tool calling
+- Local inference with vLLM
+- OpenCode workflows and skills
+- Retrieval, prompts and evaluation
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/n8n/10B981" width="20" /> Automation
+**Backend & APIs**
 
-- Flow Builder
-- Agent Bot
-- Workflow Automation
-- API Integration
-- WhatsApp Automation
+- REST services and authentication
+- Data modeling and migrations
+- Queues, background jobs and webhooks
+- File storage and integrations
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/github/10B981" width="20" /> Software Development
+**Automation & messaging**
 
-- Backend Development
-- API Development
-- Custom Applications
-- System Integration
+- Flow builders and agent bots
+- WhatsApp automation (Baileys, WPPConnect)
+- System-to-system integration
+- Scheduled and event-driven jobs
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/cloudflare/10B981" width="20" /> Infrastructure
+**Infrastructure & data**
 
-- Server Management
-- Cloudflare
-- Database Management
-- Hosting & Deployment
+- Linux servers, Docker, Nginx
+- Cloudflare and edge configuration
+- MySQL, PostgreSQL, MongoDB, Redis
+- Deployment and operational tooling
 
 </td>
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## GitHub Statistics
+## Stack
 
-<div align="center">
+<div align="left">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adrianoneco&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoneco&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=adrianoneco&theme=transparent&hide_border=true&ring=10B981&fire=3B82F6&currStreakLabel=10B981" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adrianoneco&bg_color=0D1117&color=10B981&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,cs,php,docker,cloudflare&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,cs,php,docker,linux,nginx,cloudflare,mysql,postgres,mongodb,redis&theme=dark&perline=12" alt="Python, TypeScript, C#, PHP, Docker, Linux, Nginx, Cloudflare, MySQL, PostgreSQL, MongoDB, Redis" />
 
 <br/><br/>
 
-**SOFTWARE DEVELOPMENT · ARTIFICIAL INTELLIGENCE · AUTOMATION**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&section=footer" />
+<a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-101B2C?style=flat-square&labelColor=0B1728&logo=gnometerminal&logoColor=00D69A" alt="OpenCode" /></a>
+<a href="https://github.com/vllm-project/vllm"><img src="https://img.shields.io/badge/vLLM-101B2C?style=flat-square&labelColor=0B1728&logo=lightning&logoColor=22C7E8" alt="vLLM" /></a>
+<img src="https://img.shields.io/badge/AI%20Agents-101B2C?style=flat-square&labelColor=0B1728&logo=openai&logoColor=00D69A" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Flow%20Builder-101B2C?style=flat-square&labelColor=0B1728&logo=diagramsdotnet&logoColor=22C7E8" alt="Flow Builder" />
+<img src="https://img.shields.io/badge/Baileys-101B2C?style=flat-square&labelColor=0B1728&logo=whatsapp&logoColor=00D69A" alt="Baileys" />
+<img src="https://img.shields.io/badge/WPPConnect-101B2C?style=flat-square&labelColor=0B1728&logo=whatsapp&logoColor=00D69A" alt="WPPConnect" />
+<img src="https://img.shields.io/badge/Server%20Control-101B2C?style=flat-square&labelColor=0B1728&logo=linux&logoColor=22C7E8" alt="Server Control Panel" />
 
 </div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## How I work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Ship, then harden**
+
+A working slice in production beats a perfect plan in a doc. I get the path
+end-to-end, watch it under real load, then tighten the edges.
+
+</td>
+<td width="33%" valign="top">
+
+**Automate the repeatable**
+
+If a person does it twice a week, it becomes a job, a script or an agent. The
+goal is less human toil, not more tooling.
+
+</td>
+<td width="33%" valign="top">
+
+**Make it observable**
+
+Logs, health checks and honest error messages. A failure nobody can see is a
+failure you will debug twice.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Let's work together
+
+<div align="center">
+
+**Open to full-time roles, contracts and consulting — remote, hybrid or on-site.**
+
+<br/><br/>
+
+<a href="mailto:adriano.neco.silva@proton.me">
+  <img src="https://img.shields.io/badge/Send%20an%20email-00D69A?style=for-the-badge&labelColor=0B1728&logo=protonmail&logoColor=FFFFFF" alt="Send an email" />
+</a>
+<a href="https://wa.me/5541995927699">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&labelColor=0B1728&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp +55 41 99592-7699" />
+</a>
+<a href="tel:+5541995927699">
+  <img src="https://img.shields.io/badge/%2B55%2041%2099592--7699-101B2C?style=for-the-badge&labelColor=0B1728&logo=phone&logoColor=00D69A" alt="Phone +55 41 99592-7699" />
+</a>
+
+</div>
+
+<img src="./assets/footer.svg" width="100%" alt="" />
